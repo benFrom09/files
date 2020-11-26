@@ -1,1 +1,1 @@
-# files
+#React starter config
